@@ -2,7 +2,7 @@
 1. [ Description (English). ](#en)
     - Repository Organization
     - Makefile
-3. [ Description (Français). ](#fr)
+2. [ Description (Français). ](#fr)
     - Organisation du dépôt
     - Makefile
 
