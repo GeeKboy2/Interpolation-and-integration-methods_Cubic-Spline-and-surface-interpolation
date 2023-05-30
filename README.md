@@ -1,6 +1,10 @@
 # Table of contents / Table de matières :
 1. [ Description (English). ](#en)
-2. [ Description (Français). ](#fr)
+    - Repository Organization
+    - Makefile
+3. [ Description (Français). ](#fr)
+    - Organisation du dépôt
+    - Makefile
 
 
 <a name="en"></a>
